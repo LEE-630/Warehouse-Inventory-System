@@ -1,0 +1,19 @@
+=========================================
+        ORDER SUMMARY REPORT             
+=========================================
+
+Record #1
+Order ID   : 1001
+Product ID : 1059
+Product    : Paper Clip
+Category   : Office
+Quantity   : 2
+Order Date : 2026-06-22_03:23:13
+-----------------------------------------
+Record #2
+Order ID   : 1002
+Product ID : 1022
+Product    : Calculator
+Category   : Office
+Quantity   : 5
+Order Date : 2026-06-22_03:23:30
